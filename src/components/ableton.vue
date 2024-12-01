@@ -57,17 +57,160 @@
         <p class="font-bold 2xl:font-normal">Ableton was founded in 1999 and released the first version of Live in 2001. Our products are used by a community of dedicated musicians, sound designers, and artists from across the world.</p>
     </div>
     <!-- page-4  image-22222-->
-     <div class="py-[26.6px] mb-[26.6px]">
-        <div class="w-[58.3vw] h-[58.3vw] absolute left-[41.6vw] bg-yellow-200">
+     <div class="py-[26.6px] sm:mb-[26.6px] xl:mb-[120px] w-screen">
+        <div class="sm:w-[58.3vw] sm:h-[58.3vw]
+                    
+        absolute left-[41.6vw] bg-yellow-200">
         </div>
-        <div class="flex justify-start items-center py-[26.6px]">
-             <div class="w-[133.3px] h-[133.3px] z-10  ml-[26.6px] bg-[url('https://ableton-production.imgix.net/about/photo-1.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
+        <div class="flex  items-center py-[26.6px] sm:h-[58.3vw]">
+             <div class="sm:w-[133.3px] sm:h-[133.3px]  sm:ml-[26.6px]
+              md:w-[156.2px] md:h-[156.6px] md:ml-[31.2px]
+              lg:w-[177.0px] lg:h-[177.0px] lg:ml-[35.4px] 
+              xl:w-[320px] xl:h-[320px] xl:ml-16
+              2xl:w-[426.6px] 2xl:h-[426.6px] 2xl:ml-[85.3px]
+              3xl:w-[600px] 3xl:h-[600px] 3xl:ml-[120px] z-10  bg-[url('https://ableton-production.imgix.net/about/photo-1.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
         bg-cover bg-center bg-no-repeat
         "></div>
-        <div class="w-[106px] h-[80px] z-10 ml-[26.6px] bg-[url('https://ableton-production.imgix.net/about/photo-2.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
+        <div class="sm:w-[106px] sm:h-[80px] sm:ml-[26.6px]              
+        md:w-[124.9px] md:h-[93.7px] md:ml-[31.2px]
+        lg:w-[141.6px] lg:h-[106.2px] lg:ml-[35.4px]
+        xl:w-[255.9px] xl:h-[192px] xl:ml-[64px]
+                    2xl:w-[341.3px] 2xl:h-[256px] 2xl:ml-[85.3px]
+                    3xl:w-[479.9px] 3xl:h-[360px] 3xl:ml-[120px]
+
+        z-10  bg-[url('https://ableton-production.imgix.net/about/photo-2.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
         bg-cover bg-center bg-no-repeat
         "></div>
        </div>
      </div>
+     <!-- page-5 -->
+       <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[14px] text-lg font-bold 2xl:text-xl">Making music isn’t easy. It takes time, effort, and learning. But when you’re in the flow, it’s incredibly rewarding.</p>
+        <p class="font-bold 2xl:font-normal">We feel the same way about making Ableton products. The driving force behind Ableton is our passion for what we make, and the people we make it for.</p>
+    </div>
+    <!-- page-6 -->
+     <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mb-[31.2px] lg:mb-[35.4px] xl:mb-16 2xl:mb-[85.3px] 3xl:mb-28">
+        <div class=" flex justify-center">
+        <iframe class="sm:w-[267px] sm:h-[150px]
+         md:w-[313px] md:h-[176px] lg:w-[354px] lg:h-[199px]
+          xl:w-[512px] xl:h-[288px] 2xl:w-[683px] 2xl:h-[384px]
+          3xl:w-[720px] 3xl:h-[405px]"  src="https://www.youtube.com/embed/9SbnhgjeyXA?si=njLmC9nNzfr3dTcs" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     </div>
+            <p class="px-[10px] py-[10px] 2xl:ml-36 xl:ml-24 lg:ml-2 md:ml-1 text-xs font-semibold">Why Ableton - Juanpe Bolivar</p>
+
+     </div>
+     <!-- page-7 -->
+        <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We are more than 350 people from 30 different countries divided between our headquarters in Berlin and our offices in Los Angeles and Tokyo.</p>
+        <p class="font-bold 2xl:font-normal">Most of us are active musicians, producers, and DJs, and many of us use Live and Push every day. We come from a wide range of cultural and professional backgrounds. Some of us have PhDs, some are self-taught, and most of us are somewhere in between. What connects us is the shared belief that each of us has the skills and knowledge to contribute to something big: helping to shape the future of music culture. </p>
+    </div>
+    <!-- page-8 -->
+      <div class=" xl:mb-[120px] w-screen">
+        <div class="
+        sm:w-[186.6px] sm:h-[240px] md:w-[218.7px] md:h-[281.2px] xl:w-[447.9px] xl:h-[576px] 2xl:w-[597.3px] 2xl:h-[768px]  3xl:w-[839.9px] 3xl:h-[1080px]
+        lg:w-[58.3vw] lg:h-[75vw] absolute left-0 bg-green-200">
+        </div>      
+        <div class="
+        sm:px-[26.6px] sm:py-[26.6px] sm:mb-[26.6px]
+        md:px-[31.2px] md:py-[31.2px] md:mb-[31.2px]
+        lg:px-[35.4px] lg:py-[35.4px] lg:mb-[35.4px]
+        xl:px-16 xl:py-16 xl:mb-16
+        2xl:px-[85.3px] 2xl:py-[85.3px] 2xl:mb-[85.3px]
+        3xl:px-[120px] 3xl:py-[120px] 3xl:mb-[120px]
+        ">        
+        <div class="flex  items-center justify-centersm:h-[58.3vw]">
+            <!-- foto-1 -->
+            <div class="flex flex-col">
+             <div class="sm:w-[106px] sm:h-[80px]
+                        md:w-[124.9px] md:h-[93.7px]
+             lg:w-[141.6px] lg:h-[106px]  
+             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px]
+              z-10  bg-[url('https://ableton-production.imgix.net/about/photo-3.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
+        bg-cover bg-center bg-no-repeat
+        "></div>
+        <!-- foto-2 -->
+           <div class="
+           sm:w-[106px] sm:h-[80px]
+                        md:w-[124.9px] md:h-[93.7px]
+             lg:w-[141.6px] lg:h-[106px]  
+             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px]
+            lg:mt-[35.4px] 3xl:mt-[120px] 2xl:mt-[85.3px] xl:mt-16 md:mt-[31.2px] sm:mt-[26.6px] 
+              z-10  bg-[url('https://ableton-production.imgix.net/about/photo-4.jpg?dpr=2&fit=crop&h=106&ixjsv=1.1.3&q=50&w=142')]
+        bg-cover bg-center bg-no-repeat
+        "></div>
+       </div>
+        <div class="sm:w-[133.3px] sm:h-[133.3px] md:w-[156.2px] md:h-[156.2px]
+        lg:w-[177px] lg:h-[177px] xl:w-[320px] xl:h-[320px] 2xl:w-[426.6px] 2xl:h-[426.6px] 3xl:w-[600px] 3xl:h-[600px]
+         lg:ml-[35.4px] sm:ml-[26.6px] md:ml-[31.2px]  xl:ml-16 2xl:ml-[85.3px]  3xl:ml-[120px]           
+        z-10  bg-[url('https://ableton-production.imgix.net/about/photo-5.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
+        bg-cover bg-center bg-no-repeat
+        "></div>
+       </div></div>
+     </div>
+     <!-- page-9 -->
+        <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We believe it takes focus to create truly outstanding instruments. We only work on a few products and we strive to make them great.</p>
+        <p class="font-bold 2xl:font-normal">Rather than having a one-size-fits-all process, we try to give our people what they need to work their magic and grow. We’ve learned that achieving the best results comes from building teams that are richly diverse, and thus able to explore problems from a wider set of perspectives. We don’t always agree with each other, but opinion and debate are valued and openly encouraged.</p>
+    </div>
+    <!-- page-10 -->
+     <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px]
+                xl:mx-16 xl:mb-16 2xl:mx-[85.3px] 2xl:mb-[85.3px] 3xl:mx-[120px] 3xl:mb-[120px]">
+        <img class="sm:w-[266.6px] sm:h-[156.8px] md:w-[312.5px] md:h-[182.7px] lg:w-[354.1px] lg:h-[206px]
+                    xl:w-[640px] xl:h-[367px] 2xl:w-[853.3px] 2xl:h-[487.1px] 3xl:w-[1200px] 3xl:h-[682px]"    src="https://ableton-production.imgix.net/about/poster-meet-the-makers.jpg?auto=format&dpr=2&fit=crop&fm=jpg&ixjsv=1.1.3&q=50&w=1200"/>
+     </div>
+     <!-- page-11 -->
+       <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We’re passionate about what we do, but we’re equally passionate about improving who we are.</p>
+        <p class="font-bold 2xl:font-normal sm:mb-4 3xl:mb-[20px]">We work hard to foster an environment where people can grow both personally and professionally, and we strive to create a wealth of opportunities to learn from and with each other.</p>
+         <p class="font-bold 2xl:font-normal ">Alongside an internal training program, employees are actively supported in acquiring new knowledge and skills, and coached on applying these in their daily work. In addition, staff-organized development and music salons are a chance to discuss new technologies, production techniques and best practices.</p>
+    </div>
+    <!-- part-12 -->
+      <div class="py-[8.3vw]  w-screen">
+        <div class="sm:w-[66.6vw] sm:h-[58.3vw]
+                    
+        absolute left-[16.6vw] bg-[#D5B3FF]">
+        </div>
+        <div class="flex  items-center py-[26.6px] sm:h-[58.3vw]">
+             <div class="sm:w-[33vw] sm:h-[25vw] sm:ml-[8.3vw]              
+        
+
+ z-10  bg-[url('https://ableton-production.imgix.net/about/photo-6-a.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
+        bg-cover bg-center bg-no-repeat
+        "></div>
+        <div class="
+                    sm:w-[41.6vw] sm:h-[41.6vw]  sm:ml-[16.6vw]
+             
+        z-10  bg-[url('https://ableton-production.imgix.net/about/photo-7.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
+        bg-cover bg-center bg-no-repeat
+        "></div>
+       </div>
+     </div>
+     <!-- part-13 -->
+      <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We want our employees to love it here. Since we’re looking for exceptional talent from around the world, we will do everything we can to make your transition as easy as possible.</p>
+        <p class="font-bold 2xl:font-normal">If you're joining us in Berlin, we'll help with relocation and paperwork. We’ll even provide you with free German or English lessons. Plus, working in Germany means you can expect comprehensive health insurance for you and your family, as well as generous maternity and paternity leave. Office hours are flexible, but it’s not all work; we have several company and team outings throughout the year as well as a variety of fun, informal small-group activities.</p>
+    </div>
+    <!-- page-14 -->
+     <div class="sm:mx-[8.333vw]">
+        <img class="sm:w-[85vw] sm:h-[50vw]" src="https://ableton-production.imgix.net/about/photo-8.jpg?crop=right&dpr=2&fit=crop&h=160&ixjsv=1.1.3&q=50&w=267">
+       <div class="bg-blue-300 p-[8.3vw] flex flex-col space-y-1">
+        <p class="text-lg font-bold">We’re really proud of the work we’ve done so far. But there’s so much more to come. If you’d like to be a part of it, please join us.
+          
+        </p>
+          <a class="has-arrow pt-5 text-blue-800 text-xl font-bold" href="/en/jobs/">See latest jobs</a>
+    </div>
+    </div>
+    <!-- page-15 -->
+     <div class="pt-[26.6px]"><hr/></div>
+     <!-- Page-16 -->
+      <div class="pt-[26.6px]">
+        <div class="pb-[26.6px]">
+            <img class="sm:w-[122px] 2xl:w-[188px]" src="https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/ableton-wordmark.c025e3df71b3.svg"/>
+        </div>
+      </div>
    </div> 
-</template>
+</template> 
