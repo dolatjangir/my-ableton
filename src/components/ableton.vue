@@ -21,8 +21,8 @@
                     <li class="px-[10px] pt-2 font-bold text-sm">Packs</li>
                     <li class="px-[10px] pt-2 font-bold text-sm">Help</li>
                     <li class="px-[10px] text-red-500 font-bold text-sm">More<span class="text-xl">+</span></li>
-                    <li class="ml-[190.1px] pl-[10px] text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Tr4y Live 12 For Free</li>
-                    <li class="text-sm ml-[5px]  pt-2 font-bold tracking-tighter">Login or Registor</li>
+                    <li class="ml-[190.1px] pl-[10px] 2xl:ml-[590px] text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Tr4y Live 12 For Free</li>
+                    <li class="text-sm ml-[5px] 2xl:pl-3 pt-2 font-bold tracking-tighter">Login or Registor</li>
                 </ul>
         </div>
             </nav>
@@ -195,7 +195,7 @@
         <p class="font-bold 2xl:font-normal">If you're joining us in Berlin, we'll help with relocation and paperwork. We’ll even provide you with free German or English lessons. Plus, working in Germany means you can expect comprehensive health insurance for you and your family, as well as generous maternity and paternity leave. Office hours are flexible, but it’s not all work; we have several company and team outings throughout the year as well as a variety of fun, informal small-group activities.</p>
     </div>
     <!-- page-14 -->
-     <div class="sm:mx-[8.333vw]">
+     <div class="sm:mx-[8.333vw] 2xl:pb-[85.3px]">
         <img class="sm:w-[85vw] sm:h-[50vw]" src="https://ableton-production.imgix.net/about/photo-8.jpg?crop=right&dpr=2&fit=crop&h=160&ixjsv=1.1.3&q=50&w=267">
        <div class="bg-blue-300 p-[8.3vw] flex flex-col space-y-1">
         <p class="text-lg font-bold">We’re really proud of the work we’ve done so far. But there’s so much more to come. If you’d like to be a part of it, please join us.
@@ -207,10 +207,94 @@
     <!-- page-15 -->
      <div class="pt-[26.6px]"><hr/></div>
      <!-- Page-16 -->
-      <div class="pt-[26.6px]">
-        <div class="pb-[26.6px]">
-            <img class="sm:w-[122px] 2xl:w-[188px]" src="https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/ableton-wordmark.c025e3df71b3.svg"/>
+      <div class="pt-[26.6px] px-[8.3vw] text-zinc-900 font-bold">
+        <img class="sm:w-[122px] 2xl:w-[188px] pb-[26.6px] 2xl:pb-4 pt-[26.6px]" src="https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/ableton-wordmark.c025e3df71b3.svg"/>
+
+        <div class="2xl:flex 2xl:flex-row 2xl:items-center 2xl:pt-8"> 
+        <!-- page-16 part-1 -->
+        <div class="pb-[26.6px] 2xl:w-[331.3px] 2xl:order-3 2xl:pl-6">
+            <p>Sign up to our newsletter</p>
+            <p>Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.</p>
+          <div class="pt-2 flex">  <input class="px-3 py-[6.4px] 2xl:h-[35px] sm:w-[53vw] md:w-[57vw] lg:w-[63vw] xl:w-[67vw] 2xl:w-[70%] 2xl:pt-4 bg-neutral-200" type="email" name="email"placeholder="Enter Address"/>
+            <button class="text-white bg-blue-800 py-[6.4px] 2xl:h-[35px] px-3">Sign Up</button>
+          </div>
         </div>
+        <!-- page-16 part-2 -->
+         <div class="pb-[26.6px] 2xl:pr-6">
+          <ul>
+            <li>Register Live or Push</li>
+             <li>About Ableton</li>
+              <li>Jobs</li>
+          </ul>
+          <ul class=" flex space-x-3">
+            <li class='w-8 h-8 text-3xl'><i class="fa-brands fa-facebook"></i></li>
+            <li class="w-8 h-8 text-3xl"><i class="fa-brands fa-x-twitter"></i></li>
+            <li class="w-8 h-8 text-3xl"><i class="fa-brands fa-youtube"></i></li>
+            <li class="w-8 h-8 text-3xl"><i class="fa-brands fa-instagram"></i></li>
+            <li class="w-8 h-8 text-3xl"><i class="fa-brands fa-tiktok"></i></li>
+             </ul>
+         </div>
+         <!-- page-16 part-3 -->
+          <div class="pb-[26.6px] 2xl:order-2 ">
+            <h1>Education</h1>
+            <ul>
+              <li>Offers for students and teachers</li>
+              <li>Ableton for the Classroom</li>
+              <li>Ableton for Colleges and Universities</li>
+            </ul>
+          </div></div>
+          <div class="2xl:flex">
+          <!-- page-16 part-3 -->
+          <div class="pb-[26.6px]">
+            <h1>Comminuty</h1>
+            <ul>
+              <li>Find Ableton User Groups</li>
+              <li>Find Certified Training</li>
+              <li>Become a Certified Trainer</li>
+            </ul>
+          </div>
+          <!-- page-16 part-4 -->
+           <div class="pb-[8.3vw] 2xl:ml-20">
+            <h2 class="pb-3">Language and location</h2>
+            <select class="bg-neutral-200 py-[4.9px] pl-[10.5px] pr-[50px]" name="language" id="language-chooser">
+              <option value="en">English</option>
+              <option value="de">Deutsch</option>
+              <option value="fr">Français</option>
+              <option value="ja">日本語</option>
+              <option value="zh-cn">简体中文</option>
+              <option value="es">Español</option>
+            </select>
+            <!--  -->
+            <select class="bg-neutral-200 py-[4.9px] pl-[10.5px] pr-[100px] ml-1">
+              <option>india</option>
+              <option>japan</option>
+              <option>Uk</option>
+              <option>Us</option>
+              <option>Germany</option>
+              <option>nepal</option>
+              <option>Shri Lanka</option>
+              <option>Haiti</option>
+            </select>
+            </div></div>
+            <div class="2xl:flex items-center justify-between 2xl:pb-[85.3px]">
+            <!-- page-16 part-5 -->
+             <div class="text-sm">
+           <ul class=" 2xl:flex">
+            <li class="mr-[14px] mb-[7px]">Contact Us</li>
+            <li class="mr-[14px] mb-[7px]">Press Resources</li>
+            <li class="mr-[14px] mb-[7px]">Legal Info</li>
+            <li class="mr-[14px] mb-[7px]">Privacy Policy</li>
+            <li class="mr-[14px] mb-[7px]">Cookie Settings</li>
+            <li class="mr-[14px] mb-[7px]">Imprint</li>
+           </ul>
+             </div>
+              <!-- page-16 part-6 -->
+               <div class="mt-[26.6px] pb-[14px]">
+                <div class="flex space-x-3 text-sm">
+                <a title="Go to homepage" class="main-nav__logo order-2" href="/en/"><svg role="img" aria-label="Logo Ableton" class="main-nav__logo__image" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="60" height="25.5" viewBox="0 0 45 21"><path d="M0 0h3v21H0zM6 0h3v21H6zM12 0h3v21h-3zM18 0h3v21h-3zM24 18h21v3H24zM24 12h21v3H24zM24 6h21v3H24zM24 0h21v3H24z"></path></svg></a>
+                  <h1 class="2xl:order-1 2xl:pr-2">Made iin Berlin</h1>
+              </div>
+               </div></div>
       </div>
    </div> 
 </template> 
