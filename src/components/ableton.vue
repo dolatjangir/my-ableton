@@ -21,7 +21,7 @@
                     <li class="px-[10px] pt-2 font-bold text-sm">Packs</li>
                     <li class="px-[10px] pt-2 font-bold text-sm">Help</li>
                     <li class="px-[10px] text-red-500 font-bold text-sm">More<span class="text-xl">+</span></li>
-                    <li class="ml-[190.1px] pl-[10px] 2xl:ml-[590px] text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Tr4y Live 12 For Free</li>
+                    <li class="ml-[190.1px] pl-[10px] 3xl:ml-[590px] text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Tr4y Live 12 For Free</li>
                     <li class="text-sm ml-[5px] 2xl:pl-3 pt-2 font-bold tracking-tighter">Login or Registor</li>
                 </ul>
         </div>
