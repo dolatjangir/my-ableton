@@ -1,10 +1,10 @@
 <template>
-   <div>
+   <div class=""                                                                                                                                                                            >
     <!-- page-1-->
-    <div class="header pt-5 pr-[17px] ">
+    <div class="header pt-5 pr-[17px] 4xl:px-[480px]">
         <div class="header-1 ">
             <nav class="flex">
-                <div class="sm:ml-5 sm:mb-5 sm:mr-8 2xl:mr-4">
+                <div class="sm:ml-5 sm:mb-5 sm:mr-8 2xl:mr-4 3xl:pt-2">
                 <a title="Go to homepage" class="main-nav__logo" href="/en/"><svg role="img" aria-label="Logo Ableton" class="main-nav__logo__image" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="60" height="25.5" viewBox="0 0 45 21"><path d="M0 0h3v21H0zM6 0h3v21H6zM12 0h3v21h-3zM18 0h3v21h-3zM24 18h21v3H24zM24 12h21v3H24zM24 6h21v3H24zM24 0h21v3H24z"></path></svg></a>
             </div>
             <div class="mb-4  2xl:hidden">
@@ -12,33 +12,33 @@
             </div>
             <div class="flex sm:hidden 2xl:block">
                 <ul class="flex justify-center">
-                    <li class="pr-[10px] pt-2 font-bold text-sm">Live</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Push</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Move</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Note</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Link</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Shop</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Packs</li>
-                    <li class="px-[10px] pt-2 font-bold text-sm">Help</li>
-                    <li class="px-[10px] text-red-500 font-bold text-sm">More<span class="text-xl">+</span></li>
-                    <li class="ml-[190.1px] pl-[10px] 3xl:ml-[590px] text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Tr4y Live 12 For Free</li>
-                    <li class="text-sm ml-[5px] 2xl:pl-3 pt-2 font-bold tracking-tighter">Login or Registor</li>
+                    <li class="pr-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Live</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Push</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Move</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Note</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Link</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Shop</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Packs</li>
+                    <li class="px-[10px] pt-2 3xl:mx-[5px] 3xl:px-[10px] font-bold text-sm 3xl:text-lg">Help</li>
+                    <li class="px-[10px]  3xl:mx-[5px] 3xl:px-[10px] 3xl:text-lg 3xl:pt-2 text-red-500 font-bold text-sm">More<span class="text-xl">+</span></li>
+                    <li class="ml-[190.1px] pl-[10px] 3xl:ml-[350px] 3xl:text-lg 3xl:pt-1 3xl:font-bold text-sm pt-2 text-blue-700 font-semibold tracking-tighter">Try Live 12 For Free</li>
+                    <li class="text-sm ml-[5px] 2xl:pl-3 pt-2 font-bold tracking-tighter 3xl:text-md">Log in or Registor</li>
                 </ul>
         </div>
             </nav>
         </div>
         <hr/>
         <div class="header-2">
-            <nav class="pt-[17px] pb-[15px] px-5 font-bold">
-                <button class="pr-[10px] text-xs font-bold text-red-500">About</button>
-                <button class="px-[10px] text-xs  font-bold">jobs</button>
-                <button class="pl-[10px] text-xs font-bold">Apprenticeships</button>
+            <nav class="pt-[17px] pb-[15px] sm:px-5 3xl:px-[40px] 3xl:py-[20px] font-bold">
+                <button class="pr-[10px] text-xs 3xl:text-sm 3xl:pr-[10px] 3xl:mx-[5px] font-bold text-red-500">About</button>
+                <button class="px-[10px] text-xs 3xl:text-sm 3xl:px-[10px] 3xl:mx-[5px]  font-bold">jobs</button>
+                <button class="pl-[10px] text-xs 3xl:text-sm 3xl:px-[10px] 3xl:mx-[5px] font-bold">Apprenticeships</button>
 
             </nav>
         </div>
     </div>
     <!-- page-2   image-of-ableton-->
-     <div class="ml-[26.6px] mr-[26.6px] mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mb-[85.3px] xl:mx-[85.3px] 3xl:mx-[120px] 3xl:mb-[120px]">
+     <div class="4xl:px-[480px] ml-[26.6px] mr-[26.6px] mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mb-[85.3px] xl:mx-[85.3px] 3xl:mx-[120px] 3xl:mb-[120px]">
      <div class="flex justify-center items-center sm:w-[266.6px] md:w-[312.5px] lg:w-[354.1px] xl:w-[640px] 2xl:w-[853px] 3xl:w-[1200px] h-[1076px] 
      bg-center bg-[url('https://ableton-production.imgix.net/about/header.jpg?auto=format&dpr=2&fit=crop&fm=jpg&h=1076&ixjsv=1.1.3&q=50&w=267')] 
      md:bg-[url('https://ableton-production.imgix.net/about/header.jpg?auto=format&dpr=2&fit=crop&fm=jpg&h=1076&ixjsv=1.1.3&q=50&w=313')] bg-no-repeat bg-cover
@@ -52,17 +52,17 @@
      </div>
     </div>
     <!-- page-3 -->
-     <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+     <div class="4xl:px-[480px] 4xl:text-center sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
         <p class="mb-[14px] text-lg font-bold 2xl:text-xl">We make <a class="text-blue-700" href="/en/live/">Live</a>, <a  class="text-blue-700" href="/en/push/">Push</a>, <a  class="text-blue-700" href="/en/note/">Note</a> and <a  class="text-blue-700" href="/en/link/">Link</a> — unique software and hardware for music creation and performance. With these products, our community of users creates amazing things.</p>
-        <p class="font-bold 2xl:font-normal">Ableton was founded in 1999 and released the first version of Live in 2001. Our products are used by a community of dedicated musicians, sound designers, and artists from across the world.</p>
+        <p class="font-bold 2xl:font-normal 4xl:font-bold">Ableton was founded in 1999 and released the first version of Live in 2001. Our products are used by a community of dedicated musicians, sound designers, and artists from across the world.</p>
     </div>
     <!-- page-4  image-22222-->
-     <div class="py-[26.6px] sm:mb-[26.6px] xl:mb-[120px] w-screen">
+     <div class="4xl:px-[480px] py-[26.6px] sm:mb-[26.6px] xl:mb-[120px] w-screen">
         <div class="sm:w-[58.3vw] sm:h-[58.3vw]
-                    
+                    4xl:w-[933px] 4xl:h-[933px]
         absolute left-[41.6vw] bg-yellow-200">
         </div>
-        <div class="flex  items-center py-[26.6px] sm:h-[58.3vw]">
+        <div class="flex  items-center  py-[26.6px] sm:h-[58.3vw] 4xl:h-[933px]">
              <div class="sm:w-[133.3px] sm:h-[133.3px]  sm:ml-[26.6px]
               md:w-[156.2px] md:h-[156.6px] md:ml-[31.2px]
               lg:w-[177.0px] lg:h-[177.0px] lg:ml-[35.4px] 
@@ -84,12 +84,12 @@
        </div>
      </div>
      <!-- page-5 -->
-       <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+       <div class="4xl:px-[480px]  sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
         <p class="mb-[14px] text-lg font-bold 2xl:text-xl">Making music isn’t easy. It takes time, effort, and learning. But when you’re in the flow, it’s incredibly rewarding.</p>
         <p class="font-bold 2xl:font-normal">We feel the same way about making Ableton products. The driving force behind Ableton is our passion for what we make, and the people we make it for.</p>
     </div>
     <!-- page-6 -->
-     <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mb-[31.2px] lg:mb-[35.4px] xl:mb-16 2xl:mb-[85.3px] 3xl:mb-28">
+     <div class="4xl:px-[480px] sm:mx-[26.6px] sm:mb-[26.6px] md:mb-[31.2px] lg:mb-[35.4px] xl:mb-16 2xl:mb-[85.3px] 3xl:mb-28">
         <div class=" flex justify-center">
         <iframe class="sm:w-[267px] sm:h-[150px]
          md:w-[313px] md:h-[176px] lg:w-[354px] lg:h-[199px]
@@ -100,21 +100,21 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
      </div>
-            <p class="px-[10px] py-[10px] 2xl:ml-36 xl:ml-24 lg:ml-2 md:ml-1 text-xs font-semibold">Why Ableton - Juanpe Bolivar</p>
+            <p class="px-[10px] py-[10px] 2xl:ml-36 xl:ml-24 lg:ml-2 md:ml-1 3xl:pl-[12rem] 4xl:pl-[17rem] text-xs font-semibold">Why Ableton - Juanpe Bolivar</p>
 
      </div>
      <!-- page-7 -->
-        <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <div class="4xl:px-[480px] sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
         <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We are more than 350 people from 30 different countries divided between our headquarters in Berlin and our offices in Los Angeles and Tokyo.</p>
         <p class="font-bold 2xl:font-normal">Most of us are active musicians, producers, and DJs, and many of us use Live and Push every day. We come from a wide range of cultural and professional backgrounds. Some of us have PhDs, some are self-taught, and most of us are somewhere in between. What connects us is the shared belief that each of us has the skills and knowledge to contribute to something big: helping to shape the future of music culture. </p>
     </div>
     <!-- page-8 -->
-      <div class=" xl:mb-[120px] w-screen">
-        <div class="
-        sm:w-[186.6px] sm:h-[240px] md:w-[218.7px] md:h-[281.2px] xl:w-[447.9px] xl:h-[576px] 2xl:w-[597.3px] 2xl:h-[768px]  3xl:w-[839.9px] 3xl:h-[1080px]
+      <div class="xl:mb-[120px] w-screen">
+        <div class=" 4xl:mx-[360px] 4xl:left-32
+        sm:w-[186.6px] sm:h-[240px] md:w-[218.7px] md:h-[281.2px] xl:w-[447.9px] xl:h-[576px] 2xl:w-[597.3px] 2xl:h-[768px]  3xl:w-[839.9px] 3xl:h-[1080px] 4xl:w-[933.3px] 4xl:h-[1200px]
         lg:w-[58.3vw] lg:h-[75vw] absolute left-0 bg-green-200">
         </div>      
-        <div class="
+        <div class=" 4xl:ml-[360px] 4xl:px-[280px]
         sm:px-[26.6px] sm:py-[26.6px] sm:mb-[26.6px]
         md:px-[31.2px] md:py-[31.2px] md:mb-[31.2px]
         lg:px-[35.4px] lg:py-[35.4px] lg:mb-[35.4px]
@@ -128,7 +128,7 @@
              <div class="sm:w-[106px] sm:h-[80px]
                         md:w-[124.9px] md:h-[93.7px]
              lg:w-[141.6px] lg:h-[106px]  
-             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px]
+             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px] 4xl:w-[533.3px] 4xl:h-[400px]
               z-10  bg-[url('https://ableton-production.imgix.net/about/photo-3.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
         bg-cover bg-center bg-no-repeat
         "></div>
@@ -137,90 +137,90 @@
            sm:w-[106px] sm:h-[80px]
                         md:w-[124.9px] md:h-[93.7px]
              lg:w-[141.6px] lg:h-[106px]  
-             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px]
+             xl:w-[256px] xl:h-[192px] 2xl:w-[341.3px] 2xl:h-[256px] 3xl:w-[479.9px] 3xl:h-[360px] 4xl:w-[533.3px] 4xl:h-[400px]
             lg:mt-[35.4px] 3xl:mt-[120px] 2xl:mt-[85.3px] xl:mt-16 md:mt-[31.2px] sm:mt-[26.6px] 
               z-10  bg-[url('https://ableton-production.imgix.net/about/photo-4.jpg?dpr=2&fit=crop&h=106&ixjsv=1.1.3&q=50&w=142')]
         bg-cover bg-center bg-no-repeat
         "></div>
        </div>
         <div class="sm:w-[133.3px] sm:h-[133.3px] md:w-[156.2px] md:h-[156.2px]
-        lg:w-[177px] lg:h-[177px] xl:w-[320px] xl:h-[320px] 2xl:w-[426.6px] 2xl:h-[426.6px] 3xl:w-[600px] 3xl:h-[600px]
-         lg:ml-[35.4px] sm:ml-[26.6px] md:ml-[31.2px]  xl:ml-16 2xl:ml-[85.3px]  3xl:ml-[120px]           
+        lg:w-[177px] lg:h-[177px] xl:w-[320px] xl:h-[320px] 2xl:w-[426.6px] 2xl:h-[426.6px] 3xl:w-[600px] 3xl:h-[600px] 4xl:w-[666px] 4xl:h-[666px]
+         lg:ml-[35.4px] sm:ml-[26.6px] md:ml-[31.2px]  xl:ml-16 2xl:ml-[85.3px]  3xl:ml-[120px] 4xl:ml[133.3px]          
         z-10  bg-[url('https://ableton-production.imgix.net/about/photo-5.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
         bg-cover bg-center bg-no-repeat
         "></div>
        </div></div>
      </div>
      <!-- page-9 -->
-        <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
-        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We believe it takes focus to create truly outstanding instruments. We only work on a few products and we strive to make them great.</p>
+        <div class="4xl:px-[480px] 4xl:pt-[133px] sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl 4xl:text-2xl 4xl:font-semibold">We believe it takes focus to create truly outstanding instruments. We only work on a few products and we strive to make them great.</p>
         <p class="font-bold 2xl:font-normal">Rather than having a one-size-fits-all process, we try to give our people what they need to work their magic and grow. We’ve learned that achieving the best results comes from building teams that are richly diverse, and thus able to explore problems from a wider set of perspectives. We don’t always agree with each other, but opinion and debate are valued and openly encouraged.</p>
     </div>
     <!-- page-10 -->
-     <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px]
+     <div class="4xl:px-[480px] 4xl:flex 4xl:justify-center sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px]
                 xl:mx-16 xl:mb-16 2xl:mx-[85.3px] 2xl:mb-[85.3px] 3xl:mx-[120px] 3xl:mb-[120px]">
         <img class="sm:w-[266.6px] sm:h-[156.8px] md:w-[312.5px] md:h-[182.7px] lg:w-[354.1px] lg:h-[206px]
-                    xl:w-[640px] xl:h-[367px] 2xl:w-[853.3px] 2xl:h-[487.1px] 3xl:w-[1200px] 3xl:h-[682px]"    src="https://ableton-production.imgix.net/about/poster-meet-the-makers.jpg?auto=format&dpr=2&fit=crop&fm=jpg&ixjsv=1.1.3&q=50&w=1200"/>
+                    xl:w-[640px] xl:h-[367px] 2xl:w-[853.3px] 2xl:h-[487.1px] 3xl:w-[1200px] 3xl:h-[682px] 4xl:w-[1333px] 4xl:h-[750px]"    src="https://ableton-production.imgix.net/about/poster-meet-the-makers.jpg?auto=format&dpr=2&fit=crop&fm=jpg&ixjsv=1.1.3&q=50&w=1200"/>
      </div>
      <!-- page-11 -->
-       <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+       <div class="4xl:px-[480px]  sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
         <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We’re passionate about what we do, but we’re equally passionate about improving who we are.</p>
-        <p class="font-bold 2xl:font-normal sm:mb-4 3xl:mb-[20px]">We work hard to foster an environment where people can grow both personally and professionally, and we strive to create a wealth of opportunities to learn from and with each other.</p>
-         <p class="font-bold 2xl:font-normal ">Alongside an internal training program, employees are actively supported in acquiring new knowledge and skills, and coached on applying these in their daily work. In addition, staff-organized development and music salons are a chance to discuss new technologies, production techniques and best practices.</p>
+        <p class="font-bold 2xl:font-normal 4xl:font-semibold 4xl:text-lg sm:mb-4 3xl:mb-[20px]">We work hard to foster an environment where people can grow both personally and professionally, and we strive to create a wealth of opportunities to learn from and with each other.</p>
+         <p class="font-bold 2xl:font-normal 4xl:font-semibold 4xl:text-lg ">Alongside an internal training program, employees are actively supported in acquiring new knowledge and skills, and coached on applying these in their daily work. In addition, staff-organized development and music salons are a chance to discuss new technologies, production techniques and best practices.</p>
     </div>
     <!-- part-12 -->
-      <div class="py-[8.3vw]  w-screen">
+      <div class="py-[8.3vw] 4xl:pt-0 4xl:pb-[4.5vw] 4xl:px-[480px]  w-screen">
         <div class="sm:w-[66.6vw] sm:h-[58.3vw]
-                    
-        absolute left-[16.6vw] bg-[#D5B3FF]">
+             4xl:w-[1066.6px] 4xl:h-[933.2px]       
+        absolute left-[16.6vw] 4xl:left-[29.6vw] bg-[#D5B3FF]">
         </div>
-        <div class="flex  items-center py-[26.6px] sm:h-[58.3vw]">
+        <div class="flex  items-center py-[26.6px] sm:h-[58.3vw] 4xl:h-[933.6px]">
              <div class="sm:w-[33vw] sm:h-[25vw] sm:ml-[8.3vw]              
-        
+                            4xl:w-[533.3px] 4xl:h-[400px] 4xl:ml-[133.3px]
 
  z-10  bg-[url('https://ableton-production.imgix.net/about/photo-6-a.jpg?dpr=2&fit=crop&h=80&ixjsv=1.1.3&q=50&w=107')]
         bg-cover bg-center bg-no-repeat
         "></div>
         <div class="
                     sm:w-[41.6vw] sm:h-[41.6vw]  sm:ml-[16.6vw]
-             
+              4xl:w-[666.6px] 4xl:h-[666.6px] 4xl:ml-[266.6px]
         z-10  bg-[url('https://ableton-production.imgix.net/about/photo-7.jpg?dpr=2&fit=crop&h=133&ixjsv=1.1.3&q=50&w=133')]
         bg-cover bg-center bg-no-repeat
         "></div>
        </div>
      </div>
      <!-- part-13 -->
-      <div class="sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
-        <p class="mb-[21px] text-lg font-bold 2xl:text-xl">We want our employees to love it here. Since we’re looking for exceptional talent from around the world, we will do everything we can to make your transition as easy as possible.</p>
-        <p class="font-bold 2xl:font-normal">If you're joining us in Berlin, we'll help with relocation and paperwork. We’ll even provide you with free German or English lessons. Plus, working in Germany means you can expect comprehensive health insurance for you and your family, as well as generous maternity and paternity leave. Office hours are flexible, but it’s not all work; we have several company and team outings throughout the year as well as a variety of fun, informal small-group activities.</p>
+      <div class=" 4xl:px-[480px] sm:mx-[26.6px] sm:mb-[26.6px] md:mx-[31.2px] md:mb-[31.2px] lg:mx-[35.4px] lg:mb-[35.4px] xl:mx-[128px] xl:mb-16 2xl:mx-[170.6px] 2xl:mb-[85.3px] 3xl:mx-[360px] 3xl:mb-[120px] ">
+        <p class="mb-[21px] text-lg font-bold 2xl:text-xl 4xl:font-semibold 4xl:text-2xl">We want our employees to love it here. Since we’re looking for exceptional talent from around the world, we will do everything we can to make your transition as easy as possible.</p>
+        <p class="font-bold 2xl:font-normal 4xl:font-semibold 4xl:text-lg">If you're joining us in Berlin, we'll help with relocation and paperwork. We’ll even provide you with free German or English lessons. Plus, working in Germany means you can expect comprehensive health insurance for you and your family, as well as generous maternity and paternity leave. Office hours are flexible, but it’s not all work; we have several company and team outings throughout the year as well as a variety of fun, informal small-group activities.</p>
     </div>
     <!-- page-14 -->
-     <div class="sm:mx-[8.333vw] 2xl:pb-[85.3px]">
-        <img class="sm:w-[85vw] sm:h-[50vw]" src="https://ableton-production.imgix.net/about/photo-8.jpg?crop=right&dpr=2&fit=crop&h=160&ixjsv=1.1.3&q=50&w=267">
-       <div class="bg-blue-300 p-[8.3vw] flex flex-col space-y-1">
-        <p class="text-lg font-bold">We’re really proud of the work we’ve done so far. But there’s so much more to come. If you’d like to be a part of it, please join us.
+     <div class="4xl:px-[480px] 3xl:px-0 sm:mx-[8.333vw] 3xl:mx-0 2xl:pb-[85.3px] 3xl:flex">
+        <img class="sm:w-[85vw] sm:h-[50vw] 4xl:w-[666.6px] 4xl:h-[666.6px] 3xl:w-[600px] 3xl:h-[600px] 3xl:ml-[120px] 4xl:ml-[133.3px]" src="https://ableton-production.imgix.net/about/photo-8.jpg?crop=right&dpr=2&fit=crop&h=160&ixjsv=1.1.3&q=50&w=267">
+       <div class="bg-blue-300 p-[8.3vw] flex flex-col space-y-1 3xl:p-[120px] 4xl:p-[133.3px] 3xl:justify-center">
+        <p class="text-lg font-bold 3xl:w-[400px]  3xl:text-2xl 3xl:font-semibold 3xl:leading-10">We’re really proud of the work we’ve done so far. But there’s so much more to come. If you’d like to be a part of it, please join us.
           
         </p>
-          <a class="has-arrow pt-5 text-blue-800 text-xl font-bold" href="/en/jobs/">See latest jobs</a>
+          <a class="has-arrow pt-5 text-blue-800 text-xl font-bold 3xl:text-2xl" href="/en/jobs/">See latest jobs</a>
     </div>
     </div>
     <!-- page-15 -->
-     <div class="pt-[26.6px]"><hr/></div>
+     <div class="4xl:mx-[480px] pt-[26.6px]"><hr/></div>
      <!-- Page-16 -->
-      <div class="pt-[26.6px] px-[8.3vw] text-zinc-900 font-bold">
+      <div class="4xl:mx-[480px] 4xl:px-[133.3px] pt-[26.6px] px-[8.3vw] text-zinc-900 font-bold">
         <img class="sm:w-[122px] 2xl:w-[188px] pb-[26.6px] 2xl:pb-4 pt-[26.6px]" src="https://cdn-resources.ableton.com/80bA26cPQ1hEJDFjpUKntxfqdmG3ZykO/static/images/ableton-wordmark.c025e3df71b3.svg"/>
 
-        <div class="2xl:flex 2xl:flex-row 2xl:items-center 2xl:pt-8"> 
+        <div class="2xl:flex 2xl:flex-row 2xl:items-center  2xl:pt-8 3xl:pb-16"> 
         <!-- page-16 part-1 -->
-        <div class="pb-[26.6px] 2xl:w-[331.3px] 2xl:order-3 2xl:pl-6">
+        <div class="pb-[26.6px] 2xl:w-[331.3px] 3xl:w-[533px] 2xl:order-3 2xl:pl-6">
             <p>Sign up to our newsletter</p>
             <p>Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.</p>
-          <div class="pt-2 flex">  <input class="px-3 py-[6.4px] 2xl:h-[35px] sm:w-[53vw] md:w-[57vw] lg:w-[63vw] xl:w-[67vw] 2xl:w-[70%] 2xl:pt-4 bg-neutral-200" type="email" name="email"placeholder="Enter Address"/>
-            <button class="text-white bg-blue-800 py-[6.4px] 2xl:h-[35px] px-3">Sign Up</button>
+          <div class="pt-2 flex">  <input class="px-3 py-[6.4px] 2xl:h-[35px] sm:w-[53vw] md:w-[57vw] lg:w-[63vw] xl:w-[67vw] 2xl:w-[70%] 3xl:w-413px 2xl:pt-4 bg-neutral-200" type="email" name="email"placeholder="Enter Address"/>
+            <button class="text-white bg-blue-800 py-[6.4px] 2xl:h-[35px] 3xl:w-[120px] px-3">Sign Up</button>
           </div>
         </div>
         <!-- page-16 part-2 -->
-         <div class="pb-[26.6px] 2xl:pr-6">
+         <div class="pb-[26.6px] 3xl:w-[390px] 2xl:pr-6">
           <ul>
             <li>Register Live or Push</li>
              <li>About Ableton</li>
@@ -235,7 +235,7 @@
              </ul>
          </div>
          <!-- page-16 part-3 -->
-          <div class="pb-[26.6px] 2xl:order-2 ">
+          <div class="pb-[26.6px] 3xl:w-[390px] 2xl:order-2 ">
             <h1>Education</h1>
             <ul>
               <li>Offers for students and teachers</li>
@@ -243,9 +243,9 @@
               <li>Ableton for Colleges and Universities</li>
             </ul>
           </div></div>
-          <div class="2xl:flex">
+          <div class="2xl:flex 3xl:pb-16">
           <!-- page-16 part-3 -->
-          <div class="pb-[26.6px]">
+          <div class="pb-[26.6px] 3xl:pb-0 4xl:leading-8 4xl:text-lg 4xl:font-bold">
             <h1>Comminuty</h1>
             <ul>
               <li>Find Ableton User Groups</li>
@@ -254,7 +254,7 @@
             </ul>
           </div>
           <!-- page-16 part-4 -->
-           <div class="pb-[8.3vw] 2xl:ml-20">
+           <div class="pb-[8.3vw]  3xl:pb-0 2xl:ml-20 4xl:ml-44">
             <h2 class="pb-3">Language and location</h2>
             <select class="bg-neutral-200 py-[4.9px] pl-[10.5px] pr-[50px]" name="language" id="language-chooser">
               <option value="en">English</option>
@@ -276,7 +276,7 @@
               <option>Haiti</option>
             </select>
             </div></div>
-            <div class="2xl:flex items-center justify-between 2xl:pb-[85.3px]">
+            <div class="2xl:flex 3xl:pb-[133px] items-center justify-between 2xl:pb-[85.3px]">
             <!-- page-16 part-5 -->
              <div class="text-sm">
            <ul class=" 2xl:flex">
@@ -289,7 +289,7 @@
            </ul>
              </div>
               <!-- page-16 part-6 -->
-               <div class="mt-[26.6px] pb-[14px]">
+               <div class="mt-[26.6px] sm:pb-[14px]">
                 <div class="flex space-x-3 text-sm">
                 <a title="Go to homepage" class="main-nav__logo order-2" href="/en/"><svg role="img" aria-label="Logo Ableton" class="main-nav__logo__image" fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="60" height="25.5" viewBox="0 0 45 21"><path d="M0 0h3v21H0zM6 0h3v21H6zM12 0h3v21h-3zM18 0h3v21h-3zM24 18h21v3H24zM24 12h21v3H24zM24 6h21v3H24zM24 0h21v3H24z"></path></svg></a>
                   <h1 class="2xl:order-1 2xl:pr-2">Made iin Berlin</h1>
